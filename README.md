@@ -1,4 +1,4 @@
-you can generaat tcp connection for NGROK 
+**generat tcp connection for NGROK and conect on free rdp
 1. add secret variable on you setting you can in get you secret on NGROK.COM ( warning : the variable most be named "NGROK_AUTH_TOKEN"
 2. copy rdp.txt 
 3. creat workflow and past cod of rdp.txt
